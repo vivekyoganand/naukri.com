@@ -1,0 +1,96 @@
+1. Job Summary
+
+Seasoned OpenShift Administrator with 10+ years of IT experience, including 3 years dedicated to managing and upgrading OpenShift clusters. Strong expertise in Podman, 
+OpenShift deployments, troubleshooting, and security configurations, ensuring smooth operations across clusters. Skilled in working with Jenkins CI/CD, ArgoCD, RHACS, 
+and network security management. Adept in implementing, managing, and troubleshooting applications and containerized environments. Proven ability to optimize OpenShift 
+and Kubernetes for high performance and scalability.
+
+2. Skills with Version:
+
+    OpenShift: v4.13 - v4.16
+    Kubernetes: v1.25 - v1.26
+    RHACS: v4.5
+    Jenkins CI/CD: v2.190.3
+    ArgoCD: v2.3
+    Fluent Bit: v1.9
+    GitLab: v17.3
+    Keycloak: v7.4
+    Helm: v3.9
+    Podman: v4.0
+    AWS Services: EC2, S3, VPC
+    Containerization: Docker, Podman, Buildah
+    Scripting: YAML, Bash, Python
+    DevOps Tools: Jenkins, ArgoCD, Tekton Pipelines
+    Security Tools: RHACS, Compliance Operator
+
+3. Keywords for ATS
+
+    OpenShift Administration
+    Kubernetes
+    Podman
+    Jenkins CI/CD
+    ArgoCD
+    RHACS Security
+    Helm Charts
+    Fluent Bit Logging
+    GitLab SAML Integration
+    Keycloak OAuth
+    Docker
+    Buildah
+    Application Deployment
+    Persistent Storage
+    StatefulSets
+    Network Security
+    TLS Certificates
+    SCC Configuration
+    OAuth
+    Compliance Operator
+
+Banking Project:
+==================
+    Title: OpenShift Cluster Implementation and Application Modernization for a Leading Bank
+-----------------------------------------------------------------------------------------
+    Client: Confidential (Leading Global Bank)
+    Goal:
+    The goal of the project was to modernize the client's banking applications by containerizing legacy applications and deploying them on an OpenShift cluster. This ensured scalability, security,
+and enhanced performance while aligning with the bank's stringent security standards and regulatory compliance requirements.
+    Tools:
+        OpenShift v4.15
+        Jenkins CI/CD
+        RHACS (Red Hat Advanced Cluster Security)
+        Helm Charts
+        GitLab
+        Docker, Podman
+        AWS EC2, S3
+        Compliance Operator
+        Tekton Pipelines
+    Role:
+    As an OpenShift Administrator, I was responsible for setting up and managing OpenShift clusters, containerizing banking applications using Podman and Docker, integrating CI/CD 
+pipelines with Jenkins, and ensuring compliance with banking industry security regulations. I worked closely with the security team to implement RHACS for advanced cluster security and 
+set up monitoring and logging with Fluent Bit.
+
+Insurance Project
+===================
+Title: OpenShift-Based Application Deployment and Security Enhancement for an Insurance Provider
+-----------------------------------------------------------------------------------------
+Client: Confidential (Leading Insurance Company)
+
+Goal:
+The objective was to enhance the security and performance of the insurance company's critical applications by deploying them on OpenShift and integrating security measures like RHACS 
+and TLS certificate management. The project also aimed to improve disaster recovery processes and application monitoring across the cluster.
+Tools:
+
+    OpenShift v4.14
+    ArgoCD
+    Fluent Bit
+    RHACS
+    Jenkins CI/CD
+    Keycloak OAuth
+    Helm Charts
+    Compliance Operator
+    StatefulSets
+
+Role:
+I played the role of an OpenShift Administrator, focusing on deploying and managing containerized insurance applications, implementing ArgoCD for GitOps-based deployment, 
+and improving security through RHACS and Keycloak OAuth integration. I also set up TLS certificates for secure communication, configured StatefulSets for 
+application data storage, and enhanced disaster recovery plans.
